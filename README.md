@@ -14,3 +14,7 @@ This repository is dedicated to all work and project related to data. this mean 
     - Identify outliers in the dataset
     - Remove outliers from the dataset
     - Identify correlation between features in the dataset.
+
+# Data engineering
+
+# Data Science
