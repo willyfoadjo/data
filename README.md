@@ -15,7 +15,14 @@ This repository is dedicated to all work and project related to data. this mean 
     - Remove outliers from the dataset
     - Identify correlation between features in the dataset.
  
-  - ### [Data Visualization](https://github.com/willyfoadjo/data_visualisation.git)
+- ### [Data Visualization](https://github.com/willyfoadjo/data_visualisation.git)
+  In this project I perform the following:
+    - Create a basic dashboard with Dash using HTML and core components.
+    - Connect to a database
+    - Visualize the distribution of data
+    - Visualize the relationship between two features
+    - Visualize composition of data
+    - Visualize comparison of data
 
 # Data Engineering
 
